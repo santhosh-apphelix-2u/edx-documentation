@@ -21,4 +21,5 @@ Open edX Developer's Guide
    internationalization/index
    preventing_xss/index
    style_guides/index
+   proctoring/index
    glossary
