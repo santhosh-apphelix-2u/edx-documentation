@@ -5,7 +5,7 @@ Proctortrack Setup
 This document contains specific configuration details and setup instructions for Proctortrack that may be needed for historical reference. This information is valuable for maintaining existing Proctortrack implementations at 2U.
 
 Setup Instructions
-=================
+==================
 
 As will be the case with all REST backends implementing the proctoring spec, one
 doesn't need to configure much to get Proctortrack working on a
